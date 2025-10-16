@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2025-10-16T15:56:05.173937Z</date>
+  <millis>1760630165173</millis>
+  <nanos>937000</nanos>
+  <sequence>2</sequence>
+  <logger>geometry.geometry2d.Circle</logger>
+  <level>SEVERE</level>
+  <class>geometry.geometry2d.Circle</class>
+  <method>&lt;init&gt;</method>
+  <thread>3</thread>
+  <message>Создан Circle с радиусом: 5.0</message>
+</record>
+<record>
+  <date>2025-10-16T15:56:05.174942900Z</date>
+  <millis>1760630165174</millis>
+  <nanos>942900</nanos>
+  <sequence>3</sequence>
+  <logger>geometry.geometry2d.Circle</logger>
+  <level>SEVERE</level>
+  <class>geometry.geometry2d.Circle</class>
+  <method>Show</method>
+  <thread>3</thread>
+  <message>Вывод информации о Circle: radius = 5.0</message>
+</record>
+<record>
+  <date>2025-10-16T15:56:05.175935300Z</date>
+  <millis>1760630165175</millis>
+  <nanos>935300</nanos>
+  <sequence>4</sequence>
+  <logger>geometry.geometry2d.Circle</logger>
+  <level>SEVERE</level>
+  <class>geometry.geometry2d.Circle</class>
+  <method>Area</method>
+  <thread>3</thread>
+  <message>Вычислена площадь Circle: 78.53981633974483</message>
+</record>
+<record>
+  <date>2025-10-16T15:56:05.187934700Z</date>
+  <millis>1760630165187</millis>
+  <nanos>934700</nanos>
+  <sequence>10</sequence>
+  <logger>geometry.geometry2d.Circle</logger>
+  <level>SEVERE</level>
+  <class>geometry.geometry2d.Circle</class>
+  <method>&lt;init&gt;</method>
+  <thread>3</thread>
+  <message>Попытка создания Circle с отрицательным радиусом: -2.0</message>
+</record>
+<record>
+  <date>2025-10-16T15:56:05.191950400Z</date>
+  <millis>1760630165191</millis>
+  <nanos>950400</nanos>
+  <sequence>16</sequence>
+  <logger>geometry.geometry2d.Circle</logger>
+  <level>SEVERE</level>
+  <class>geometry.geometry2d.Circle</class>
+  <method>&lt;init&gt;</method>
+  <thread>3</thread>
+  <message>Создан Circle с радиусом: 3.0</message>
+</record>
+<record>
+  <date>2025-10-16T15:56:05.194934200Z</date>
+  <millis>1760630165194</millis>
+  <nanos>934200</nanos>
+  <sequence>20</sequence>
+  <logger>geometry.geometry2d.Circle</logger>
+  <level>SEVERE</level>
+  <class>geometry.geometry2d.Circle</class>
+  <method>Show</method>
+  <thread>3</thread>
+  <message>Вывод информации о Circle: radius = 3.0</message>
+</record>
+<record>
+  <date>2025-10-16T15:56:05.194934200Z</date>
+  <millis>1760630165194</millis>
+  <nanos>934200</nanos>
+  <sequence>21</sequence>
+  <logger>geometry.geometry2d.Circle</logger>
+  <level>SEVERE</level>
+  <class>geometry.geometry2d.Circle</class>
+  <method>Area</method>
+  <thread>3</thread>
+  <message>Вычислена площадь Circle: 28.274333882308138</message>
+</record>
+<record>
+  <date>2025-10-16T15:56:05.195933800Z</date>
+  <millis>1760630165195</millis>
+  <nanos>933800</nanos>
+  <sequence>22</sequence>
+  <logger>geometry.geometry2d.Circle</logger>
+  <level>SEVERE</level>
+  <class>geometry.geometry2d.Circle</class>
+  <method>Area</method>
+  <thread>3</thread>
+  <message>Вычислена площадь Circle: 28.274333882308138</message>
+</record>
+<record>
+  <date>2025-10-16T15:56:05.203053600Z</date>
+  <millis>1760630165203</millis>
+  <nanos>53600</nanos>
+  <sequence>34</sequence>
+  <logger>geometry.geometry2d.Circle</logger>
+  <level>SEVERE</level>
+  <class>geometry.geometry2d.Circle</class>
+  <method>&lt;init&gt;</method>
+  <thread>3</thread>
+  <message>Создан Circle с радиусом: 3.0</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2025-10-16T15:57:10.493904800Z</date>
+  <millis>1760630230493</millis>
+  <nanos>904800</nanos>
+  <sequence>2</sequence>
+  <logger>geometry.geometry2d.Circle</logger>
+  <level>SEVERE</level>
+  <class>geometry.geometry2d.Circle</class>
+  <method>&lt;init&gt;</method>
+  <thread>3</thread>
+  <message>Создан Circle с радиусом: 5.0</message>
+</record>
+<record>
+  <date>2025-10-16T15:57:10.494921500Z</date>
+  <millis>1760630230494</millis>
+  <nanos>921500</nanos>
+  <sequence>3</sequence>
+  <logger>geometry.geometry2d.Circle</logger>
+  <level>SEVERE</level>
+  <class>geometry.geometry2d.Circle</class>
+  <method>Show</method>
+  <thread>3</thread>
+  <message>Вывод информации о Circle: radius = 5.0</message>
+</record>
+<record>
+  <date>2025-10-16T15:57:10.494921500Z</date>
+  <millis>1760630230494</millis>
+  <nanos>921500</nanos>
+  <sequence>4</sequence>
+  <logger>geometry.geometry2d.Circle</logger>
+  <level>SEVERE</level>
+  <class>geometry.geometry2d.Circle</class>
+  <method>Area</method>
+  <thread>3</thread>
+  <message>Вычислена площадь Circle: 78.53981633974483</message>
+</record>
+<record>
+  <date>2025-10-16T15:57:10.503906600Z</date>
+  <millis>1760630230503</millis>
+  <nanos>906600</nanos>
+  <sequence>10</sequence>
+  <logger>geometry.geometry2d.Circle</logger>
+  <level>SEVERE</level>
+  <class>geometry.geometry2d.Circle</class>
+  <method>&lt;init&gt;</method>
+  <thread>3</thread>
+  <message>Попытка создания Circle с отрицательным радиусом: -2.0</message>
+</record>
+<record>
+  <date>2025-10-16T15:57:10.508925300Z</date>
+  <millis>1760630230508</millis>
+  <nanos>925300</nanos>
+  <sequence>16</sequence>
+  <logger>geometry.geometry2d.Circle</logger>
+  <level>SEVERE</level>
+  <class>geometry.geometry2d.Circle</class>
+  <method>&lt;init&gt;</method>
+  <thread>3</thread>
+  <message>Создан Circle с радиусом: 3.0</message>
+</record>
+<record>
+  <date>2025-10-16T15:57:10.510923300Z</date>
+  <millis>1760630230510</millis>
+  <nanos>923300</nanos>
+  <sequence>20</sequence>
+  <logger>geometry.geometry2d.Circle</logger>
+  <level>SEVERE</level>
+  <class>geometry.geometry2d.Circle</class>
+  <method>Show</method>
+  <thread>3</thread>
+  <message>Вывод информации о Circle: radius = 3.0</message>
+</record>
+<record>
+  <date>2025-10-16T15:57:10.510923300Z</date>
+  <millis>1760630230510</millis>
+  <nanos>923300</nanos>
+  <sequence>21</sequence>
+  <logger>geometry.geometry2d.Circle</logger>
+  <level>SEVERE</level>
+  <class>geometry.geometry2d.Circle</class>
+  <method>Area</method>
+  <thread>3</thread>
+  <message>Вычислена площадь Circle: 28.274333882308138</message>
+</record>
+<record>
+  <date>2025-10-16T15:57:10.511903800Z</date>
+  <millis>1760630230511</millis>
+  <nanos>903800</nanos>
+  <sequence>22</sequence>
+  <logger>geometry.geometry2d.Circle</logger>
+  <level>SEVERE</level>
+  <class>geometry.geometry2d.Circle</class>
+  <method>Area</method>
+  <thread>3</thread>
+  <message>Вычислена площадь Circle: 28.274333882308138</message>
+</record>
+<record>
+  <date>2025-10-16T15:57:10.516905400Z</date>
+  <millis>1760630230516</millis>
+  <nanos>905400</nanos>
+  <sequence>34</sequence>
+  <logger>geometry.geometry2d.Circle</logger>
+  <level>SEVERE</level>
+  <class>geometry.geometry2d.Circle</class>
+  <method>&lt;init&gt;</method>
+  <thread>3</thread>
+  <message>Создан Circle с радиусом: 3.0</message>
+</record>
+</log>

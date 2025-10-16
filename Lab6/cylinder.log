@@ -1,0 +1,36 @@
+окт. 16, 2025 10:56:05 PM geometry.geometry3d.Cylinder <init>
+FINEST: Создан Cylinder с высотой h: 7.0
+окт. 16, 2025 10:56:05 PM geometry.geometry3d.Cylinder Show
+FINEST: Вывод информации о Cylinder
+окт. 16, 2025 10:56:05 PM geometry.geometry3d.Cylinder Volume
+FINEST: Вычислен объем Cylinder: 197,92
+окт. 16, 2025 10:56:05 PM geometry.geometry3d.Cylinder Show
+FINEST: Объем цилиндра: 197,92
+окт. 16, 2025 10:56:05 PM geometry.geometry3d.Cylinder <init>
+FINEST: Создан Cylinder с высотой h: 5.0
+окт. 16, 2025 10:56:05 PM geometry.geometry3d.Cylinder Show
+FINEST: Вывод информации о Cylinder
+окт. 16, 2025 10:56:05 PM geometry.geometry3d.Cylinder Volume
+FINEST: Вычислен объем Cylinder: 40,00
+окт. 16, 2025 10:56:05 PM geometry.geometry3d.Cylinder Show
+FINEST: Объем цилиндра: 40,00
+окт. 16, 2025 10:56:05 PM geometry.geometry3d.Cylinder <init>
+FINEST: Попытка создания Cylinder с отрицательной высотой h: -2.0
+окт. 16, 2025 10:57:10 PM geometry.geometry3d.Cylinder <init>
+FINEST: Создан Cylinder с высотой h: 7.0
+окт. 16, 2025 10:57:10 PM geometry.geometry3d.Cylinder Show
+FINEST: Вывод информации о Cylinder
+окт. 16, 2025 10:57:10 PM geometry.geometry3d.Cylinder Volume
+FINEST: Вычислен объем Cylinder: 197,92
+окт. 16, 2025 10:57:10 PM geometry.geometry3d.Cylinder Show
+FINEST: Объем цилиндра: 197,92
+окт. 16, 2025 10:57:10 PM geometry.geometry3d.Cylinder <init>
+FINEST: Создан Cylinder с высотой h: 5.0
+окт. 16, 2025 10:57:10 PM geometry.geometry3d.Cylinder Show
+FINEST: Вывод информации о Cylinder
+окт. 16, 2025 10:57:10 PM geometry.geometry3d.Cylinder Volume
+FINEST: Вычислен объем Cylinder: 40,00
+окт. 16, 2025 10:57:10 PM geometry.geometry3d.Cylinder Show
+FINEST: Объем цилиндра: 40,00
+окт. 16, 2025 10:57:10 PM geometry.geometry3d.Cylinder <init>
+FINEST: Попытка создания Cylinder с отрицательной высотой h: -2.0
