@@ -1,0 +1,7 @@
+module-info.class
+com\example\Calculator.class
+com\example\WidgetHider.class
+com\example\WordSwitcher.class
+com\example\TextFlag.class
+com\example\RestaurantOrder.class
+com\example\RestaurantOrder$Dish.class
